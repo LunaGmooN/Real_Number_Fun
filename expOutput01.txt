@@ -1,0 +1,1 @@
+Current testing done in lunaE6.cpp, see main().
